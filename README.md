@@ -29,20 +29,20 @@ All members of the group will now:
 
 4. Clone from your personal repo
 
-*Hint:* `git clone ....`
+	• *Hint:* `git clone ....`
 
 5. Setup upstream environment
 
-*Hint:* `git remote ....`
+	• *Hint:* `git remote ....`
 
 6. Create a new branch (called "myDev") from your **master** branch
 
-*Hint:* `git checkout ....`
+	• *Hint:* `git checkout ....`
 
 7. Add your name to names.txt
 8. Push your changes to your personal repo on Github
 	
-(*Hint:* **P**aul **A**dores **C**uddly **P**uppies)
+	• *Hint:* **P**aul **A**dores **C**uddly **P**uppies
 
 9. All non-team leaders of the group should create a pull request to the team leader's repo on Github
 10. Once members have completed step 9, the team leader should create a pull request to the main repo from step 2
