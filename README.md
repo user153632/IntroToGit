@@ -30,12 +30,15 @@ All members of the group will now:
 4. Clone from your personal repo
 
 *Hint:* `git clone ....`
+
 5. Setup upstream environment
 
 *Hint:* `git remote ....`
+
 6. Create a new branch (called "myDev") from your **master** branch
 
 *Hint:* `git checkout ....`
+
 7. Add your name to names.txt
 8. Push your changes to your personal repo on Github
 	
